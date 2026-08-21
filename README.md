@@ -6,4 +6,4 @@ Global Disease Surveillance & Outbreak Intelligence Platform
 
 The system aggregates data from *CDC, WHO, ProMED, HealthMap, IHME, and ECDC* to provide a *unified surveillance dashboard*.
 
-Link to access API - https://med-fusion-hackfest.onrender.com/docs#/
+Link for dashboard - https://theoutbreaklab404error.netlify.app
